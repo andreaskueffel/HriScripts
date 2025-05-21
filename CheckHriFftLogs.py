@@ -7,7 +7,7 @@ import argparse
 
 fft_values = []
 max_values_perdmc = {}
-subfolder_path = "D:\\Backup\\BMW20250515_VPW05\\hridata"
+subfolder_path = "D:\\Backup\\Machine01\\hridata"
 frequStep = 9.765625
 
 # Set up logging to file and console
